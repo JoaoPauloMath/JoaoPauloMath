@@ -32,10 +32,9 @@ Atualmente, estou expandindo meus horizontes na área de **Desenvolvimento Web**
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 Email: seu-email@exemplo.com
-- 🌐 [Portfólio](https://seusite.com) _(se tiver)_
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/)
+- 📧 Email: joao.paulo.pereira16@escola.pr.gov.br
+- 🌐 [Portfólio](https://github.com/JoaoPauloPereirax)
 ---
 
 <p align="center">
