@@ -15,7 +15,7 @@ Atualmente, estou expandindo meus horizontes na área de **Desenvolvimento Web**
 
 - 📚 Ensino de Matemática com tecnologias digitais
 - 💻 Pensamento Computacional na educação básica
-- 🌐 Desenvolvimento de páginas web com **HTML e CSS**
+- 🌐 Desenvolvimento de páginas web com **HTML5, CSS3 e JavaScript**
 - 🧠 Lógica de programação para iniciantes
 
 ---
