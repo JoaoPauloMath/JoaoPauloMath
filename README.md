@@ -5,7 +5,7 @@
 
 ## 🧮 Sobre Mim
 
-Sou **professor de Matemática** com paixão por ensinar e explorar o raciocínio lógico. Além disso, atuo como **educador em Pensamento Computacional**, incentivando alunos a desenvolverem habilidades como resolução de problemas, abstração e decomposição — essenciais para o mundo digital.
+Sou **professor de Matemática** com paixão por ensinar e explorar o raciocínio lógico. Além disso, atuo com o componente curricular **Pensamento Computacional**, incentivando alunos a desenvolverem habilidades como resolução de problemas, abstração e decomposição — essenciais para o mundo digital.
 
 Atualmente, estou expandindo meus horizontes na área de **Desenvolvimento Web**, cursando Sistemas para Internet pela **UTFPR - Guarapuava**.
 
