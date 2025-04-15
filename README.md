@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👨‍🏫 João Paulo Pereira</h1>
+<p align="center">Professor de Matemática e Pensamento Computacional | Estudante de Sistemas para Internet</p>
 
-<!--
-**JoaoPauloMath/JoaoPauloMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧮 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **professor de Matemática** com paixão por ensinar e explorar o raciocínio lógico. Além disso, atuo como **educador em Pensamento Computacional**, incentivando alunos a desenvolverem habilidades como resolução de problemas, abstração e decomposição — essenciais para o mundo digital.
+
+Atualmente, estou expandindo meus horizontes na área de **Desenvolvimento Web**, cursando Sistemas para Internet pela **UTFPR - Guarapuava**.
+
+---
+
+## 💡 Interesses Atuais
+
+- 📚 Ensino de Matemática com tecnologias digitais
+- 💻 Pensamento Computacional na educação básica
+- 🌐 Desenvolvimento de páginas web com **HTML e CSS**
+- 🧠 Lógica de programação para iniciantes
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| 💻 Desenvolvimento Web | 📐 Ensino & Computação | 🗂️ Outros |
+|------------------------|------------------------|-----------|
+| HTML, CSS, JavaScript  | Pensamento Computacional | Git & GitHub |
+| React, PHP, Python     | Matemática Discreta      | SQL, SASS |
+| Bootstrap              | Algoritmos & Lógica      | VS Code |
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 Email: seu-email@exemplo.com
+- 🌐 [Portfólio](https://seusite.com) _(se tiver)_
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATEMÁTICA-blue?style=for-the-badge&logo=knowledgebase&logoColor=white">
+  <img src="https://img.shields.io/badge/PENSAMENTO%20COMPUTACIONAL-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/EDUCAÇÃO-FAZ%20A%20DIFERENÇA-critical?style=for-the-badge">
+</p>
+
+<p align="center">
+  ✨ “A matemática é o alfabeto com o qual Deus escreveu o universo.” – Galileu Galilei ✨
+</p>
